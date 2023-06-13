@@ -1,4 +1,4 @@
-# Soham's AstroNvim Configuration
+# AstroNvim Configuration
 
 Soham's configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
