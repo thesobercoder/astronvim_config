@@ -7,8 +7,6 @@ return {
     spell = false, -- sets vim.opt.spell
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = false, -- sets vim.opt.wrap
-    shiftwidth = 2, -- Number of space inserted for indentation
-    tabstop = 2, -- Number of space in a tab
     guifont = vim.fn.has("win32") == 1 and "JetBrainsMonoNL NFM:h13" or "JetBrainsMono Nerd Font:h18"  -- sets GUI font
   },
   g = {
