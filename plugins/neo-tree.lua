@@ -5,7 +5,7 @@ return {
 
     opts.window.width = 50
     opts.filesystem.filtered_items = {
-      visible = true
+      visible = true,
     }
 
     return opts -- return final config table
